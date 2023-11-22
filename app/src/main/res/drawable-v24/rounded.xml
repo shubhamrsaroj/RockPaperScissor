@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/button_shape">
+            <shape android:shape="rectangle">
+
+                <corners android:radius="20dp" /> <!-- Adjust the radius as needed -->
+            </shape>
+        </item>
+    </layer-list>
+
+
+</selector>
